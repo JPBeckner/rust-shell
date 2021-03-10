@@ -11,9 +11,11 @@ cargo run
 ```
 
 ## Shell Built-ins
-* exit: exits the shell.
-* cd: change current directory. 
+* `exit`
+  * Exits the shell.
+* `cd`
+  * change current directory. 
   * example: 
-  ```shell
-  cd rust-shell/src
-  ```
+   ```shell
+   > cd rust-shell/src
+   ```
