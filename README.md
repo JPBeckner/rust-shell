@@ -7,5 +7,13 @@ Simple shell made in Rust from this [tutorial](https://www.joshmcguigan.com/blog
 ```shell
 cd rust-shell/
 cargo run
-> 
+> # ready for receive commands
 ```
+
+## Shell Built-ins
+* exit: exits the shell.
+* cd: change current directory. 
+  * example: 
+  ```shell
+  cd rust-shell/src
+  ```
